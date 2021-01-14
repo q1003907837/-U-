@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/utils/vm.js"],"names":["vm","__webpack_require__","Vue"],"mappings":"sDAAA,IACMA,EAAK,IADXC,EAAA,QACeC,SACAF","file":"static/js/0.9f9f5f124aed7acbb947.js","sourcesContent":["import Vue from 'vue';\r\nconst vm = new Vue();\r\nexport default vm;\n\n\n// WEBPACK FOOTER //\n// ./src/utils/vm.js"],"sourceRoot":""}
